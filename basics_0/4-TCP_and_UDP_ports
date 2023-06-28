@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-
+#netstat with flags only listening ports, TCP ports, uDP ports,
+#and name process
 netstat -ltup
