@@ -6,3 +6,5 @@ then
 else
     ping -c 5 "$1"
 fi
+
+# $1 is the first argument passed
